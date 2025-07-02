@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.29.0)",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/gmmanonymus111/revanced-magisk/releases/download/24/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.30.0)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/gmmanonymus111/revanced-magisk/releases/download/25/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/gmmanonymus111/revanced-magisk/update/build.md"
 }
